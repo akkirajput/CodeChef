@@ -1,1 +1,1 @@
-Hello This is Repository for Data Structures and Algorithm
+Hello This is Repository for Codechef Solutions
